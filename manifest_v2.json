@@ -1,0 +1,102 @@
+{
+  "item": {
+    "id": "icu.sxm2027.endfield",
+    "restype": "quick_app",
+    "name": "环上终末地",
+    "description": "# 环上终末地：把「终末地」装进你的手环\n\n## 一句话\n\n**抬手就能抽的终末地。** 35 位干员、真实概率与保底、调度中心被动产券、档案与立绘全在手环上 —— 资源包由插件端一键下发。\n\n---\n\n## 这是什么\n\n「环上终末地」是一个**真正跑在手环上的快应用**。\n\n抬腕抽卡、攒券、升级调度中心、翻干员档案、看立绘 —— 一套完整的循环，全在 336×480 的屏幕里。\n\n支持小米手环 8 / 9 / 9 Pro / 10、Watch S3 / S4 / S5、REDMI Watch 5 / 6 等，方屏、RW、圆屏三档版式分别适配。\n\n---\n\n## 你能玩到什么\n\n### 🎲 真实口径的寻访\n\n- 6★ 0.8% / 5★ 8% / 4★ 91.2%，与游戏公示一致\n- 66 抽起软保底，每抽 +5%，**80 抽必出六星**\n- 当期 UP 只有六星，**120 抽硬保底**，换池不继承\n- 单抽 500 合成玉，十连 5000；开局 5000，每日补给 10000\n\n### 🏭 两条产线，一套经济\n\n- **谷地调度中心 / 武陵调度中心**各自独立：等级、券余额、产出速率、待收池\n- 升级消耗「本地区券 + 源石」；产出按小时累积，**点一下才入账**（48 小时封顶）\n- 武陵要谷地 Lv.12 才解锁，券价与产出按 0.1 倍缩放 —— 两条线各有各的节奏\n\n### 🎟️ 谷地大乐透 / 武陵大乐透\n\n- 用对应地区的调度券开抽，奖池里能开出源石 —— 升级调度中心的硬通货\n- 奖池独立，概率公示在「奖品信息」页\n\n### 📖 档案 V2 · 六段解锁\n\n- 基础档案（代号 / 性别 / 种族 / 生日 / 综合体检测）、人事简述、档案资料·一 ~ 四\n- 按**信赖度**解锁：默认 / 亲近 / 信任，和游戏里的节奏一致\n\n### 🖼️ 立绘查看\n\n- 单档立绘，整屏查看、右侧滑杆缩放、单指自由拖动\n- 双击隐藏 UI，沉浸看图\n\n### 🧭 还有\n\n派遣、理智、基建、商店、仓库、战斗、打工…… 一个不落，全部围绕「攒资源 → 抽干员 → 养调度中心」这条主线。\n\n---\n\n## 插件端：资源不用你操心\n\n手环端**初始是空包**，所有资源由插件端「**环上终末地配置器**」下发：\n\n- 内置默认资源包：**35 位干员 · 3 档卡池 · 35 份档案 · 35 张立绘**\n- 支持从 **fz.wiki**（终末地 WIKI）实时抓取最新干员数据，名字 / 星级 / 职业 / 档案 / 立绘一键入库\n- 连上手环 → 选择资源包 → 一键下发，手环端重启即生效\n\n---\n\n## 安装（三步）\n\n1. 在 AstroBox 安装插件「**环上终末地配置器**」\n2. 打开插件，进「资源包」，把默认资源包**下发到手环**\n3. 手环上打开「环上终末地」，开玩\n\n---\n\n## 说明\n\n- 本项目为**非官方同人作品**，与鹰角网络无关；角色与设定版权归原公司所有\n- 干员资料与立绘来自 fz.wiki（终末地 WIKI），仅供学习交流\n- 抽卡概率、保底、经济数值均为**模拟**，与游戏内实际无关\n\n---\n\n**抬手，抽一发。环上终末地，等你上环。**",
+    "preview": [
+      "media/endfield-cover-3x2 (7) (1).png",
+      "media/xiaomi_band_pro-2026-11-21-18-54-45.png",
+      "media/xiaomi_band_pro-2026-11-21-18-43-26.png",
+      "media/xiaomi_band_pro-2026-11-21-18-58-52.png",
+      "media/xiaomi_band_pro-2026-11-21-18-44-02.png",
+      "media/xiaomi_band_pro-2026-11-21-18-44-16.png",
+      "media/xiaomi_band_pro-2026-11-21-18-43-53.png",
+      "media/xiaomi_band_pro-2026-11-21-18-43-19.png",
+      "media/endfield-cover-3x2 (5).png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/endfield-cover-3x2 (7) (1).png",
+    "author": [
+      {
+        "name": "bandbbs_874728",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买地址",
+      "url": "https://afdian.com/item/cc83a380e59911f1b71b52540025c377",
+      "icon": "download"
+    },
+    {
+      "title": "QQ群",
+      "url": "https://qm.qq.com/q/LJZE0eSnyU",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/icu.sxm2027.endfield.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "id": "环上终末地配置器"
+        }
+      ]
+    }
+  }
+}
